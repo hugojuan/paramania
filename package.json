@@ -1,0 +1,32 @@
+{
+  "name": "paramania",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cihan Gül",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs-path": "0.0.25",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32",
+    "mongoose": "^5.10.2",
+    "mongoose-geojson-schema": "^2.1.5",
+    "nodemon": "^2.0.6",
+    "npm": "^8.10.0",
+    "otp-generator": "^2.0.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "validator": "^13.1.1"
+  }
+}
