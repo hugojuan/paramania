@@ -4,7 +4,7 @@ var request = require('request');
 
 const vatan_base_url = "http://panel.vatansms.com/panel/smsgonder1N.php"
 const vatan_userno = "43424"
-const vatan_username = "905354734826"
+const vatan_username = "05354734826"
 const vatan_password = "26WC8u48"
 const vatan_from = "08505913125"
 const vatan_type = "Otp"
